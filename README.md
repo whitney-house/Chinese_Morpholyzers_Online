@@ -59,7 +59,7 @@ python prepare_models.py
 
 This will automatically download the necessary Thulac and HanLP models.
 
-For the LTP model, go to the LTP model page on Hugging Face[https://huggingface.co/LTP/small/tree/main] and manually download the model files. Once downloaded, place them in the models directory (inside backend/models/ltp/small).
+For the LTP model, go to the LTP model page on [Hugging Face](https://huggingface.co/LTP/small/tree/main) and manually download the model files. Once downloaded, place them in the models directory (inside backend/models/ltp/small).
 
 **You can decide what names of the folders including models are, then you need to change the init part of analyzers.py**
 
@@ -73,4 +73,4 @@ uvicorn main:app --reload
 ```
 
 #### Reference 
-This is where is the evaluation comes from (evauation)[https://github.com/ownthink/evaluation/tree/master]
+This is where is the evaluation comes from [evauation](https://github.com/ownthink/evaluation/tree/master)
