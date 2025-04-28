@@ -1,0 +1,16 @@
+jieba==0.42.1
+thulac==0.2.2
+hanlp
+snownlp==0.12.3
+ltp==4.2.14 
+ltp-core==0.1.4 
+ltp-extension==0.1.13 
+sympy==1.13.1 
+torch==2.6.0 
+transformers==4.50.3
+fastapi
+uvicorn
+python-multipart==0.0.20
+
+
+
