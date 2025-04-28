@@ -1,6 +1,6 @@
 # Online Chinese Morpholyzer
 
-This repository provides an online Chinese morphological analysis using jieba, THULAC, HanLp, LTP, snowNLP. It includes both a frontend (built with React) and a backend for handling model inference and processing. It includes two functions: **segment texts** and **evaluation**. Due to the models(THULAC, HanLp, LTP) are huge, it may take a while to run. You can use **fn+F12** to check whether this app runs appropriately.
+This repository provides an online Chinese morphological analysis using jieba, THULAC, HanLp, LTP, snowNLP. It includes both a frontend (built with React) and a backend for handling model inference and processing. It includes two functions: **segment text** and **evaluate analyzers**. Due to the models(THULAC, HanLp, LTP) are huge, it may take a while to run. You can use **fn+F12** to check whether this app runs appropriately.
 
 ## Getting Started
 
