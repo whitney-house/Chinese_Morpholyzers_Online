@@ -12,7 +12,7 @@ Follow the instructions below to set up the project locally or deploy it online.
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Chinese_Morpholyzer_Online.git](https://github.com/whitney-house/Chinese_Morpholyzers_Online)
+git clone https://github.com/whitney-house/Chinese_Morpholyzers_Online
 cd Chinese_Morpholyzer_Online
 ```
 
